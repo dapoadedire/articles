@@ -9,3 +9,4 @@
 |7.|The Complete Guide to Git|https://git-scm.com/book/en/v2/Git-Basics-Git-Branching-and-Merging|
 |8. |no hello |https://nohello.net/en/|
 |9.|How To Sell Golden Hammers |https://wiki.c2.com/?HowToSellGoldenHammers|
+|10. |Gentle Explanation of "this" in JavaScript|https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/|
