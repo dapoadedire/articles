@@ -10,3 +10,5 @@
 |8. |no hello |https://nohello.net/en/|
 |9.|How To Sell Golden Hammers |https://wiki.c2.com/?HowToSellGoldenHammers|
 |10. |Gentle Explanation of "this" in JavaScript|https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/|
+|11.|Designing robust and predictable APIs with idempotency|https://stripe.com/blog/idempotency|
+|||
